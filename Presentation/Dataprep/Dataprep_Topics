@@ -1,0 +1,18 @@
+Dataprep: data wrangling and preparation service, 
+Trifacta-based UI,
+visual transformations, 
+schema profiling, 
+column statistics, data lineage, 
+data quality rules, 
+pattern matching and tokenization, 
+sampling and previews, 
+parameterized recipes,
+scheduling data flows, 
+integration with BigQuery, 
+Cloud Storage, and 
+Dataflow, 
+output formats (CSV, JSON,Avro, Parquet), 
+version control for recipes, 
+IAM roles (user, editor, developer), 
+execution monitoring, 
+job history
