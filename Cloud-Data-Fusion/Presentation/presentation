@@ -1,0 +1,25 @@
+Cloud Data Fusion is a fully managed, cloud-native data integration service on Google Cloud that uses a visual, code-free interface (built on open-source CDAP) to help users build, manage, and deploy scalable data pipelines for extracting, transforming, and loading (ETL) data from diverse sources to various destinations, simplifying complex data integration without needing deep coding skills. It offers numerous connectors and pre-built transformations for batch and real-time processing, improving data engineering productivity. 
+
+Key Features & Benefits: 
+* Visual Pipeline Building: Drag-and-drop interface for creating data pipelines without writing code.
+* Code-Free Transformations: Pre-built tools (like Wrangler) and custom transformations for data cleansing, filtering, and shaping.
+* Broad Connectivity: Extensive connectors for GCP, other clouds, on-premise systems, and specialized sources like SAP.
+* Managed & Scalable: Fully managed service that handles infrastructure, running pipelines on Dataproc for scalability.
+* Open Source Foundation: Built on CDAP (Cask Data Application Platform), ensuring flexibility and portability.
+* Hybrid & Multi-Cloud: Supports deploying pipelines across different environments. 
+	
+How it Works: 
+1. Connect: Use built-in connectors to link to your data sources (databases, SaaS, files, streams).
+2. Transform: Apply transformations visually in the Studio or Wrangler interface (e.g., filter, deduplicate, join).
+3. Deploy & Run: Deploy the pipeline to run on Google Cloud's infrastructure, often leveraging Dataproc for execution. 
+
+Common Uses: 
+* Migrating data to a data warehouse or data lake.
+* Preparing data for analytics and machine learning.
+* Consolidating data from disparate systems.
+* Building real-time data feeds. 
+
+References:-
+
+https://cloud.google.com/data-fusion
+https://www.youtube.com/watch?v=qRwMNK226Pw
