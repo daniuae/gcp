@@ -1,0 +1,26 @@
+GCP DI - Dialogflow, CDF 
+
+Dialogflow: response generation,
+sentiment analysis, speech integration,
+conversation datasets for model
+improvement
+CDF: fully managed ETL/ELT service,
+built on CDAP (Cask Data Application
+Platform), visual pipeline designer,
+batch, data pipelines (source →
+transform → sink), reusable plugins,
+wrangler transformations, pipeline
+drafts and versions, deployment
+lifecycle, metadata tracking, lineage
+visualization, operational summary
+dashboard, studio interface,
+namespaces, system vs user pipelines,
+preview mode, pipeline templates,
+Spark and DataProc execution engines,
+scaling clusters
+
+CDF - Connectivity & Integration: built-
+in connectors for BigQuery, Cloud
+
+Storage, Pub/Sub, Cloud SQL , JDBC,
+REST, SFTP, Dataproc, Dataflow
